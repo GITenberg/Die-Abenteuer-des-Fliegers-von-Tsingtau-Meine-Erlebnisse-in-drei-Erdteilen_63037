@@ -1,0 +1,31 @@
+_repo: Die-Abenteuer-des-Fliegers-von-Tsingtau-Meine-Erlebnisse-in-drei-Erdteilen_63037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plüschow, Gunther
+    alias: Pluschow, Gunther
+    birthdate: 1886
+    deathdate: 1931
+    gutenberg_agent_id: '45231'
+    url: http://www.gutenberg.org/2009/agents/45231
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gunther_Pl%C3%BCschow
+    - https://de.wikipedia.org/wiki/Gunther_Pl%C3%BCschow
+description: ''
+gutenberg_issued: '2020-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63037'
+  lccn: '31022832'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, German'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, British'
+- GITenberg
+title: 'Die Abenteuer des Fliegers von Tsingtau: Meine Erlebnisse in drei Erdteilen'
+url: http://www.gutenberg.org/ebooks/63037
